@@ -1,11 +1,11 @@
 
-
+import TrafficLightSimulator from "./TrafficLightSimulator"
 function App() {
   
 
   return (
     <>
-      <h1>Hello world</h1>
+      <TrafficLightSimulator/>
     </>
   )
 }
